@@ -9,15 +9,11 @@
 ![Img2](./Img/3.png)
 
 
-<Programmer>
+Programmer
 강영묵,주대현
 
-
-
-<Art>
+Art
 장현민,이지민
 
-
-
-<Designer>
+Designer
 서범석
