@@ -9,9 +9,12 @@
 ![Img2](./Img/3.png)
 
 
+
+
 Programmer
 
 강영묵,주대현
+
 
 
 Art
@@ -19,6 +22,14 @@ Art
 장현민,이지민
 
 
+
 Designer
 
 서범석
+
+
+
+
+
+
+다운로드 : https://marbinspectrum.itch.io/f-3233
