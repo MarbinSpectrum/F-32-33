@@ -1,5 +1,12 @@
-# F-32-33
+![Img4](./Img/4.png)
+
 2020 인디게임워크엔드에서 만든 작품입니다.
+
+
+
+
+
+
 
 
 ![Img0](./Img/1.png)
@@ -11,25 +18,22 @@
 
 
 
-Programmer
+# Programmer
 
 강영묵,주대현
 
 
 
-Art
+# Art
 
 장현민,이지민
 
 
 
-Designer
+# Designer
 
 서범석
 
+# 다운로드
 
-
-
-
-
-다운로드 : https://marbinspectrum.itch.io/f-3233
+https://marbinspectrum.itch.io/f-3233
